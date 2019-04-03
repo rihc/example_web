@@ -215,6 +215,11 @@ section.download h2 {
   margin-top: 0;
 }
 
+section.download h3 {
+  font-size: 45px;
+  margin-top: 0px;
+}
+
 section.download .badges .badge-link {
   display: block;
   margin-bottom: 25px;
@@ -248,6 +253,8 @@ section.features .section-heading {
 section.features .section-heading h2 {
   margin-top: 0;
 }
+
+
 
 section.features .section-heading p {
   margin-bottom: 0;
